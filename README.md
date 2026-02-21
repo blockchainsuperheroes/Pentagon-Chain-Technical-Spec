@@ -4,6 +4,18 @@
 
 ---
 
+## Chain Identity
+
+| Item | Value |
+|------|-------|
+| **Chain ID** | 3344 |
+| **Symbol** | PC |
+| **Chainlist** | https://chainlist.org/chain/3344 |
+| **CoinMarketCap** | https://coinmarketcap.com/currencies/pentagon-games/ |
+| **CoinGecko** | https://www.coingecko.com/en/coins/pentagon-games |
+
+---
+
 ## Quick Facts
 
 | Item | Current | Max (Elastic) |
