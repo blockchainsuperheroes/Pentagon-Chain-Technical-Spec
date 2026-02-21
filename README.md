@@ -64,6 +64,18 @@ This design creates a contained utility economy where value flows in easily but 
 
 ---
 
+## Core Contracts
+
+| Contract | Address | Description |
+|----------|---------|-------------|
+| ERC-6551 Registry | `0x488D1b3A7A87dAF97bEF69Ec56144c35611a7d81` | Token Bound Account factory |
+| TBA Implementation | `0x1755Fee389D4954fdBbE8226A5f7BA67d3EE97fc` | Simple ERC-6551 account |
+| AINFT Genesis | `0x4e8D3B9Be7Ef241Fb208364ed511E92D6E2A172d` | AI Agent NFT standard |
+
+**Note:** The registry is ownerless (pure factory). These are the official Pentagon Chain contracts.
+
+---
+
 ## Node Requirements
 
 | Type | Disk | RAM |
