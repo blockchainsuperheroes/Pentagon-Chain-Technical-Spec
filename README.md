@@ -4,6 +4,24 @@
 
 ---
 
+## Overview
+
+Pentagon Chain is a zkEVM Layer 2 built for the Human x AI economy. It powers a gaming and AI agent ecosystem where both humans and autonomous agents participate in on-chain activities.
+
+**Ecosystem:**
+- **Gunnies.io** — FPS game live on Epic Games Store
+- **gemry.ai** — AI NFT with regeneration
+- **EtherFantasy.com** — PFP mint and mobile game
+- **Pentaswap.io** — Native DEX (audits in progress)
+- **Agent Certification** — On-chain identity for AI agents
+
+**Key Stats:**
+- 1.2M+ verified users on Pentagon Chain
+- 3,000+ GitHub commits (2026)
+- Listed on CoinMarketCap and CoinGecko
+
+---
+
 ## Chain Identity
 
 | Item | Value |
