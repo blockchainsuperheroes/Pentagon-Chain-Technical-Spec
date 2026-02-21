@@ -8,6 +8,17 @@
 
 Pentagon Chain is a zkEVM Layer 2 built for the Human x AI economy. It powers a gaming and AI agent ecosystem where both humans and autonomous agents participate in on-chain activities.
 
+**Architecture:**
+
+Pentagon Chain operates as a self-contained economy with Ethereum as the capital and liquidity layer. ZK proofs sync to Ethereum hourly, ensuring security inheritance from L1.
+
+- **Ethereum Mainnet** — Capital layer with $PC ERC20, LP pools (PC/USDC, PC/ETH), price discovery, VC liquidity
+- **Pentagon Chain** — Utility layer for agent transactions, digital certificates, ecosystem activity
+- **Deposits** — Permissionless via ZK proof bridge
+- **Withdrawals** — Permissioned (creator-controlled) for economic containment
+
+This design creates a contained utility economy where value flows in easily but exits are managed, ensuring sustainable tokenomics.
+
 **Ecosystem:**
 - **Gunnies.io** — FPS game live on Epic Games Store
 - **gemry.ai** — AI NFT with regeneration
