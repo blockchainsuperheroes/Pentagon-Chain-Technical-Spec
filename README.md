@@ -24,6 +24,7 @@
 | Service | URL |
 |---------|-----|
 | Website | https://pentagon.games |
+| Add RPC (Auto) | https://pentagon.games/addrpc |
 | Explorer | https://explorer.pentagon.games |
 | RPC | https://rpc.pentagon.games |
 | Explorer API | https://explorer.pentagon.games/api |
