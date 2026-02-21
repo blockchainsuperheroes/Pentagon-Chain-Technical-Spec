@@ -6,13 +6,16 @@
 
 ## Quick Facts
 
-| Item | Value |
-|------|-------|
-| **Name** | Pentagon Chain (PC) |
-| **Type** | Polygon CDK zkEVM |
-| **Decimals** | 18 (standard EVM) |
-| **Block time** | ~20 seconds |
-| **Memo/tag** | Not supported (standard EVM) |
+| Item | Current | Max (Elastic) |
+|------|---------|---------------|
+| **Name** | Pentagon Chain (PC) | - |
+| **Type** | zkEVM Validity Rollup | - |
+| **Decimals** | 18 (standard EVM) | - |
+| **Block time** | ~20 seconds | <1 second (with ZK prover scaling) |
+| **TPS** | ~100-500 | Up to 10,000+ |
+| **Memo/tag** | Not supported | - |
+
+**Performance Notes:** Pentagon Chain uses elastic scaling architecture. Block time and throughput are adjustable based on demand via ZK prover scaling. Current configuration optimized for cost efficiency. Can scale horizontally with additional prover capacity to meet high-throughput requirements.
 
 ---
 
